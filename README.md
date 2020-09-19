@@ -9,3 +9,31 @@
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+
+
+
+
+```javascript
+       //TO achieve a perfect reflection,
+       //get and rotate the previous vector 
+        //from end to beginning
+        
+        first = mark.pop();
+        //return current (last) point and remove it
+        second = mark[mark.length - 2];
+        //return the point before last point
+
+        newP = mark[0];
+        //assign newP to (any value)
+
+        dx = second.x - first.x;
+        dy = second.y - first.y;
+        //get the last vector from the array
+
+        newP.x = first.x + dx;
+        newP.y = first.y - dy;        
+        //turn it over to have the new point
+
+        mark.unshift(newP);
+```
