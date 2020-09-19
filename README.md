@@ -1,7 +1,7 @@
-# digm5010
+# DIGM5010
 
 
-# WEEK 2
+## WEEK 2
 
 <p class="codepen" data-height="446" data-theme-id="dark" data-default-tab="js,result" data-user="zian-liu" data-slug-hash="OJNEXKg" data-preview="true" style="height: 446px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="5010 AS1">
   <span>See the Pen <a href="https://codepen.io/zian-liu/pen/OJNEXKg">
