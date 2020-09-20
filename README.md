@@ -15,7 +15,7 @@ I haven't used javascript for over three years. The most time I spent on this sk
 
 An issue I'm thinking for the whole week is to achieve perfect symmetry. If I draw a specific pattern in the panel, after reflecting from the edge, neither the yellowtail script nor my codes can make the line remain the same as before. The pattern usually will become an irregular curve after the bouncing.
 
-![](https://lh3.googleusercontent.com/pw/ACtC-3d6G_Tevzi12wrrPobva75ibK50ck8V9aGKRObVyzTrQ39CYxHZ3xsOpRx2tL9iQzIeM8hdR8_Ap1CaIGdNEJ9L_w2V-fJVAW17qaWbflhN9VcJXoZyDFSmrZufCKnz9ODfB23507lgx5eDdksH7827=w988-h969-no?authuser=0)
+![](https://lh3.googleusercontent.com/pw/ACtC-3d6G_Tevzi12wrrPobva75ibK50ck8V9aGKRObVyzTrQ39CYxHZ3xsOpRx2tL9iQzIeM8hdR8_Ap1CaIGdNEJ9L_w2V-fJVAW17qaWbflhN9VcJXoZyDFSmrZufCKnz9ODfB23507lgx5eDdksH7827=w988-h969-no?authuser=0 = 200x)
 
 The script below is my initial thinking about this problem. Once the new point is out of the edge, the next vector should be exactly the last vector that brought the line to reach the edge but in a different direction. The vector after next should be precisely the vector before last but in a different direction. 
 
