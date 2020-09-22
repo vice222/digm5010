@@ -20,7 +20,7 @@ An issue I'm thinking for the whole week is to achieve perfect symmetry after re
 
 The script below is my initial thinking about this problem. Once the new point is out of the edge, the next vector should be exactly the last vector that brought the line to reach the edge but in a different direction. The vector after next should be the vector before last but in a different direction. 
 
-For the array, each time I should pop the tail to return and the previous vector, calculate and unshift the new point to the beginning of the array. Maybe?
+For the array, each time I should pop the tail to return the previous vector, calculate and unshift the new point to the beginning of the array so the previous vectors will be retrieved from back to end one by one. Maybe?
 Unfortunately, my script doesn't work well, but I think this concept is worth sharing.
 
 ```javascript
@@ -32,16 +32,16 @@ Unfortunately, my script doesn't work well, but I think this concept is worth sh
         second = mark[mark.length - 2];
         //return the point before last point
 
-        newP = mark[0];
-        //assign newP to (any value)
+        var newP;
+        // create newpoint 
 
         dx = second.x - first.x;
         dy = second.y - first.y;
-        //get the last vector from the array
+        //calculate the last vector from the end of array
 
         newP.x = first.x + dx;
         newP.y = first.y - dy;        
-        //turn it over to have the new point
+        //rotate the direction and assign to new point 
 
         mark.unshift(newP);
 ```
