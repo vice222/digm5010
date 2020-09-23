@@ -12,7 +12,7 @@ For my first sketch, I have added a few bouncing effects. First of all, after de
 
 I haven't used javascript for over three years. The most time I spent on this sketch is to figure out how to use its array correctly. When I was debugging the yellowtail scripts that Graham provides to us, I found the marks array not only includes a few pair s of dx, dy value, but also the mouse initial x, y position, and then a boolean. After a little meditation and researching, I realized the same array in javascript is capable to include different types like numbers, booleans, and strings together. However, most js tutorial websites neither mention that nor give a proper example.
 
-<img src=" https://lh3.googleusercontent.com/yp-OYLpTngMAE6mdo2MOg6gBgHuG1PmJC7zxTXOE35OMG07Nz4GlftVBvoOqdwL71IQnZXyin955_i6yFLYfKKISKAZKgv4FPN6J3qoF39rqtKoVqUGNBaLvaEvuEl0UW0WXSqRYpwVHolyp1J57JotUIiV7wK0SqrpVF8i0M3tMkPttTWj7hNdjvBPFY32t6V4T5OY2B0qKL-23Q8k1wPkT8bshmmiLRM4zx3SIkkwtygAZmqG92HyQN4QY2sgSsvyPIf9EayAtIayI7tjAcxy7jNfJGfOACx1sFyuklLiE6dFTHLbdUzFYqSWXEHDjgZpRVog0es-kW-f3pPz_mgj9dLIcvc4LLt8IxzCe4uY48LqSMH8_tUO-FXYIr2_vQ8eMgL9IReVP-92fH6JvcFj96ctZwddBE7H_vUqoGz2Q5GoF7v0KFCpRDDtOKySS2NurJhNNYKnPrFN1P7b74eauvbXcURYNntL4GNz0doHfWhNl3ThULSenYRLgdWW7PVcqFWKWftidCrhmAxcILdM9IsyrDmtBS2oDw8oD6_i9WH8TlO9MKnww8A6Wk9OAtzRZsDmsTSPESvMOTo-hAdfWM6gkbedvZzxWVNoKhHadWeTGmLgtDAaiuf5g8NupYzRVFou3l1zfjGkuzndTd1hTYzW4mWZv3Gwnu10HgNsbQic6IiqLRj7u4G38Wg=w431-h214-no?authuser=0" width="200">
+<img src=" https://lh3.googleusercontent.com/yp-OYLpTngMAE6mdo2MOg6gBgHuG1PmJC7zxTXOE35OMG07Nz4GlftVBvoOqdwL71IQnZXyin955_i6yFLYfKKISKAZKgv4FPN6J3qoF39rqtKoVqUGNBaLvaEvuEl0UW0WXSqRYpwVHolyp1J57JotUIiV7wK0SqrpVF8i0M3tMkPttTWj7hNdjvBPFY32t6V4T5OY2B0qKL-23Q8k1wPkT8bshmmiLRM4zx3SIkkwtygAZmqG92HyQN4QY2sgSsvyPIf9EayAtIayI7tjAcxy7jNfJGfOACx1sFyuklLiE6dFTHLbdUzFYqSWXEHDjgZpRVog0es-kW-f3pPz_mgj9dLIcvc4LLt8IxzCe4uY48LqSMH8_tUO-FXYIr2_vQ8eMgL9IReVP-92fH6JvcFj96ctZwddBE7H_vUqoGz2Q5GoF7v0KFCpRDDtOKySS2NurJhNNYKnPrFN1P7b74eauvbXcURYNntL4GNz0doHfWhNl3ThULSenYRLgdWW7PVcqFWKWftidCrhmAxcILdM9IsyrDmtBS2oDw8oD6_i9WH8TlO9MKnww8A6Wk9OAtzRZsDmsTSPESvMOTo-hAdfWM6gkbedvZzxWVNoKhHadWeTGmLgtDAaiuf5g8NupYzRVFou3l1zfjGkuzndTd1hTYzW4mWZv3Gwnu10HgNsbQic6IiqLRj7u4G38Wg=w431-h214-no?authuser=0" width="300">
 
 An issue I'm thinking for the whole week is to achieve perfect symmetry after relection. If I draw a specific pattern in the panel, after reflecting from the edge, neither the yellowtail script nor my codes can make the line remain the same as before ---- the pattern usually becomes an irregular curve after the bouncing.
 
@@ -50,16 +50,16 @@ Unfortunately, my script doesn't work well, but I think this concept is worth sh
 ### Literature Review Part 1
 Use Immersive virtual reality to help COVID-19 patients or healthcare workers.
 
-The situation of immersive Virtual Reality in the medical field is similar to the game industry -- slow and nonsignificant. A majority of applications are about reducing pain (entertainment nature) and surgery simulation (most are simple software made by unity and maya3D, only a few are for commercial use e.g., OSSO VR)
+The situation of immersive Virtual Reality in the medical field is similar to the game industry -- slow and nonsignificant. A majority of applications are about reducing pain (entertainment nature) and surgery simulation (most are simple softwares made by unity and maya3D, only a few are for commercial use e.g., OSSO VR)
 
-Unlike vaccine worldwide competition, VR is silent (almost no research).It doesn't keep pace with the epidemic.
+Unlike vaccine worldwide competition, VR is silent these days(almost no research about covid-19).It doesn't keep pace with the epidemic.
 #### My Direction (Maybe)
 Easy: Repeat previous distraction experiments, using level design to improve the immersive experience for patients that have shortness of breath or difficulty breathing?
 
 Difficult: Nucleic acid-based testing (PCR) simulation for the nurse? or further 
 
 
-###### Collection of papers
+##### Collection of papers
 'Put-That-There': Voice and Gesture at the Graphics Interface
 Richard A. Bolt, 1980
 
