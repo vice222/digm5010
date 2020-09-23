@@ -46,34 +46,15 @@ Unfortunately, my script doesn't work well, but I think this concept is worth sh
         mark.unshift(newP);
 ```
 
-#### Literature Review Part 1
-Expense, no softwares
+### Literature Review Part 1
+Use Immersive virtual reality to help COVID-19 patients or healthcare workers.
 
-psychological wellbeing 
+The situation of immersive Virtual Reality in the medical field is similar to the game industry -- slow and nonsignificant. A majority of applications are about reducing pain (entertainment nature) and surgery simulation (most are simple software made by unity and maya3D, only a few are for commercial use e.g., OSSO VR)
+Unlike vaccine worldwide competition, VR is silent (almost no research).It doesn't keep pace with the epidemic.
+#### My Direction (Maybe)
+Easy: Repeat previous distraction experiments, using level design to improve the immersive experience for patients that have shortness of breath or difficulty breathing?
+Difficult: Nucleic acid-based testing (PCR) simulation for the nurse? or further 
 
-pediatric oncology
-
-distraction, Managing Pain and Anxiety
-
-Cancer-Related Symptom Management,
-
-Mental Health Treatment
-
-neuropathic pain
-
-deliberate practice,laparoscopic cholecystectomy
-
-Alzheimer's disease，spatial memory loss --- navigation task， store retrieve in place/object
-
-OSSO VR - orthopedic surgery
-
-Plan Surgeries
-
-explain complex condition and treatment option
-
-aspiration examination for breast cancer
-
-virtual hands for Phantom Limb Pain
 
 ###### Collection of papers
 'Put-That-There': Voice and Gesture at the Graphics Interface
@@ -155,4 +136,32 @@ Ilana  De Almeida Souza profile imageIlana de Almeida Souza, Claudiney  Sanches 
 
 Virtual reality for medical training: a prototype to simulate breast aspiration exam
 
+#### Some keywords from research
+Expense, no softwares
+
+psychological wellbeing 
+
+pediatric oncology
+
+distraction, Managing Pain and Anxiety
+
+Cancer-Related Symptom Management,
+
+Mental Health Treatment
+
+neuropathic pain
+
+deliberate practice,laparoscopic cholecystectomy
+
+Alzheimer's disease，spatial memory loss --- navigation task， store retrieve in place/object
+
+OSSO VR - orthopedic surgery
+
+Plan Surgeries
+
+explain complex condition and treatment option
+
+aspiration examination for breast cancer
+
+virtual hands for Phantom Limb Pain
 
