@@ -45,3 +45,101 @@ Unfortunately, my script doesn't work well, but I think this concept is worth sh
 
         mark.unshift(newP);
 ```
+
+#### Literature Review Part 1
+Expense, no softwares
+psychological wellbeing 
+pediatric oncology
+distraction, Managing Pain and Anxiety
+Cancer-Related Symptom Management,
+Mental Health Treatment
+neuropathic pain
+deliberate practice,laparoscopic cholecystectomy
+Alzheimer's disease，spatial memory loss --- navigation task， store retrieve in place/object
+OSSO VR - orthopedic surgery
+Plan Surgeries
+explain complex condition and treatment option
+aspiration examination for breast cancer
+virtual hands for Phantom Limb Pain
+
+###### Collection of papers
+'Put-That-There': Voice and Gesture at the Graphics Interface
+Richard A. Bolt, 1980
+
+A Research Center for Augmenting Human Intellect
+Douglas Engelbart and William English, 1968
+
+Responsive Environments
+Myron Krueger, 1977
+
+Two Selections by Brenda Laurel
+The Six Elements and Causal Relations Among Them (from Computers as Theater), 1991
+Star Raiders: Dramatic Interaction in a Small World, 1986
+
+Virtual Reality in Health System: Beyond Entertainment. A Mini‐Review on the Efficacy of VR During Cancer Treatment
+Andrea Chirico  Fabio Lucidi  Michele De Laurentiis  Carla Milanese  Alessandro Napoli  Antonio Giordano
+
+Zengin S, Kabul S, Al B, Sarcan E, Doğan M, Yildirim C. 2013. Effects of music therapy on pain and anxiety in patients undergoing port catheter placement procedure. Complement Ther Med 21: 689– 696.
+
+Wolitzky K, Fivush R, Zimand E, Hodges L, Rothbaum BO. 2005. Effectiveness of virtual reality distraction during a painful medical procedure in pediatric oncology patients. Psychol Health 20: 817– 824.
+
+Varshney R, Frenkiel S, Nguyen LH, Young M, Del Maestro R, Zeitouni A, Tewfik MA. National Research Council Canada 2014. Development of the McGill simulator for endoscopic sinus surgery: A new high‐fidelity virtual reality simulator for endoscopic sinus surgery. Am J Rhinol Allergy 28: 330– 334.
+
+Singh P, Aggarwal R, Tahir M, Pucher PH, Darzi A. 2014. A randomized controlled study to evaluate the role of video‐based coaching in training laparoscopic skills. Ann surg 261: 862– 869.
+
+VR Medical Support System for Cancer Patients - Cancer Edutainment VR Theater (CEVRT) and Psycho-Oncological VR Therapy (POVRT)
+Hiroshi Oyama, Tatsuo Miyazawa, Masaki Aono, Ryutarou Ohbuchi, Susumu Suda
+
+Gershon J, Zimand E, Pickering M, Rothbaum BO, Hodges L. 2004. A pilot and feasibility study of virtual reality as a distraction for children with cancer. J Am Acad Child Adolesc Psychiatry 43: 1243– 1249.
+
+
+Virtual Reality Pain Control During Burn Wound Debridement in the Hydrotank
+Hoffman, Hunter G. PhD*; Patterson, David R. PhD†; Seibel, Eric PhD*; Soltani, Maryam MEd†; Jewett-Leahy, Laura BA†; Sharar, Sam R. MD
+
+Muayyad Ahmad, Eslam Bani Mohammad, Huda A. Anshasi, Virtual Reality Technology for Pain and Anxiety Management among Patients with Cancer: A Systematic Review, Pain Management Nursing
+
+Virtual Reality and Medical Inpatients: A Systematic Review of Randomized, Controlled Trials
+Julieta Dascal, BA, Mark Reid, PhD, Waguih William IsHak, MD, FAPA, Brennan Spiegel, MD, FACG, Jennifer Recacho, MA, Bradley Rosen, MD, and Itai Danovitch, MD, MBAcorresponding author
+
+A positive psychological intervention using virtual reality for patients with advanced cancer in a hospital setting: a pilot study to assess feasibility
+Rosa M. Baños, Macarena Espinoza, Azucena García-Palacios, José M. Cervera, Gaspar Esquerdo, Enrique Barrajón & Cristina Botella 
+
+Virtual reality and pain management: current trends and future directions
+Angela Li, Zorash Montaño, Vincent J Chen & Jeffrey I 
+
+The use of Virtual Reality for needle-related procedural pain and distress in children and adolescents in a paediatric oncology unit
+
+Adjunctive virtual reality for procedural pain management of burn patients during dressing change or physical therapy: A systematic review and meta‐analysis of randomized controlled trials
+Huaxiu Luo MD  Chang Cao PhD  Jian Zhong MD  Junjie Chen PhD  Ying Cen PhD
+
+Joanna Szczepańska-Gieracha, Błażej Cieślik, Sebastian Rutkowski, Paweł Kiper, Andrea Turolla, What can virtual reality offer to stroke patients? A narrative review of the literature.
+
+Deliberate Practice on a Virtual Reality Laparoscopic Simulator Enhances the Quality of Surgical Technical Skills
+P. Crochet, R. Aggarwal, S. S. Dubb, P. Ziprin, N. Rajaretnam, T. Grantcharov, K. Ericsson, A. Darzi
+
+Development and evaluation of a trauma decision-making simulator in Oculus virtual reality
+Cuan M. Harringtona,*, Dara O. Kavanagha, John F. Quinlanb, Donncha Ryana,Patrick Dickerc, Dara O'Keeffea, Oscar Traynora, Sean Tierney
+
+Training Persons with Parkinson Disease using an Advanced CAVE Virtual Reality System
+K Bo Foreman  Christopher Wilson  Leland E Dibble  Andrew S Merryweather
+
+Use of Immersive Virtual Reality in the Assessment and Treatment of Alzheimer’s Disease: A Systematic Review
+Clay, Felixa; b; * | Howett, Davidc | FitzGerald, Jamesa; b | Fletcher, Paula; d; e | Chan, Dennisc; f | Price, Annabela; b
+
+
+Augmented Reality for Early Alzheimer's Disease Diagnosis
+Alla  Vovk , Ameera  Patel , Dennis  Chan 
+
+ https://www.docwirenews.com/docwire-pick/future-of-medicine-picks/how-osso-vr-is-reshaping-the-surgical-training-process/
+
+ 
+A Virtual Reality System for Treatment of Phantom Limb Pain using Game Training and Tactile Feedback
+Bartal  Henriksen profile imageBartal Henriksen, Ronni  Nielsen profile imageRonni Nielsen, M. Kraus profile imageMartin Kraus, Bo  Geng profile imageBo Geng
+
+
+Development and evaluation of a virtual reality simulator for training of thyroid gland nodules needle biopsy
+Ilana  De Almeida Souza profile imageIlana de Almeida Souza, Claudiney  Sanches profile imageClaudiney Sanches, Marcia N S Kondo profile imageMarcia N. S. Kondo, Marcelo Knörich Zuffo profile imageMarcelo Knorich Zuffo
+
+Virtual reality for medical training: a prototype to simulate breast aspiration exam
+
+
