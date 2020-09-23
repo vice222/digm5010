@@ -8,19 +8,17 @@
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-For my first sketch, I have added a few bounce effects. First of all, after detecting the collision event (the new point is out of canvas), the future points will all be calculated to the reverse direction by using `math.abs()` until the next collision. When the bouncing happens, I also add a little variant to the line, so you will see the line begins to vibrate. What is more, to make the animation more attractive, the line will change to various colors by touching different edges. This animation is like a dynamic screensaver, but out of fashion, like from the 90s. D:
+For my first sketch, I have added a few bouncing effects. First of all, after detecting the collision event (the new point is out of canvas), the future points will all be calculated to a reverse direction by using math.abs() until the next collision. When the bouncing happens, I also add a little variant to the line's each point's position, so you will see the line begins to vibrate. What is more, to make the animation become more attractive, the line can switch to various colors by touching different edges. This animation is like a dynamic screensaver, but out of fashion, like from the 90s.
 
-I haven't used javascript for over three years. The most time I spent on this sketch is to figure out how to use the array correctly. When I was debugging the yellowtail scripts that Graham provides to us, I found the marks array not only includes a few pair s of dx, dy value, but also the mouse initial position x, y, and a boolean. After a little meditation and researching, I realized the same array in javascript could include different types like numbers, booleans, and strings together. However, most js tutorial websites neither mention that nor give a proper example.
+I haven't used javascript for over three years. The most time I spent on this sketch is to figure out how to use its array correctly. When I was debugging the yellowtail scripts that Graham provides to us, I found the marks array not only includes a few pair s of dx, dy value, but also the mouse initial x, y position, and then a boolean. After a little meditation and researching, I realized the same array in javascript is capable to include different types like numbers, booleans, and strings together. However, most js tutorial websites neither mention that nor give a proper example.
 
-
-An issue I'm thinking for the whole week is to achieve perfect symmetry. If I draw a specific pattern in the panel, after reflecting from the edge, neither the yellowtail script nor my codes can make the line remain the same as before. The pattern usually will become an irregular curve after the bouncing.
+An issue I'm thinking for the whole week is to achieve perfect symmetry after relection. If I draw a specific pattern in the panel, after reflecting from the edge, neither the yellowtail script nor my codes can make the line remain the same as before ---- the pattern usually becomes an irregular curve after the bouncing.
 
 !<>(https://lh3.googleusercontent.com/pw/ACtC-3d6G_Tevzi12wrrPobva75ibK50ck8V9aGKRObVyzTrQ39CYxHZ3xsOpRx2tL9iQzIeM8hdR8_Ap1CaIGdNEJ9L_w2V-fJVAW17qaWbflhN9VcJXoZyDFSmrZufCKnz9ODfB23507lgx5eDdksH7827=w988-h969-no?authuser=0)
 
-The script below is my initial thinking about this problem. Once the new point is out of the edge, the next vector should be exactly the last vector that brought the line to reach the edge but in a different direction. The vector after next should be precisely the vector before last but in a different direction. 
+The script below is my initial thinking about this problem. Once the new point is out of the edge, the next vector should be exactly the last vector that brought the line to reach the edge but in a different direction. The vector after next should be the vector before last but in a different direction.
 
-For the array, each time I ought to pop the tail to get and invert the previous vector and unshift the new point to the beginning of the array. Maybe?
-Unfortunately, my script doesn't work well, but I think this concept is worth sharing.
+For the array, each time I should pop the tail to return the previous vector, calculate and unshift the new point to the beginning of the array so the previous vectors will be retrieved from back to end one by one. Maybe? Unfortunately, my script doesn't work well, but I think this concept is worth sharing.
 
 ```javascript
        //TO achieve a perfect sysmetry,
@@ -44,3 +42,5 @@ Unfortunately, my script doesn't work well, but I think this concept is worth sh
 
         mark.unshift(newP);
 ```
+
+
