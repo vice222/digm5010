@@ -48,18 +48,31 @@ Unfortunately, my script doesn't work well, but I think this concept is worth sh
 
 #### Literature Review Part 1
 Expense, no softwares
+
 psychological wellbeing 
+
 pediatric oncology
+
 distraction, Managing Pain and Anxiety
+
 Cancer-Related Symptom Management,
+
 Mental Health Treatment
+
 neuropathic pain
+
 deliberate practice,laparoscopic cholecystectomy
+
 Alzheimer's disease，spatial memory loss --- navigation task， store retrieve in place/object
+
 OSSO VR - orthopedic surgery
+
 Plan Surgeries
+
 explain complex condition and treatment option
+
 aspiration examination for breast cancer
+
 virtual hands for Phantom Limb Pain
 
 ###### Collection of papers
