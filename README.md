@@ -171,3 +171,63 @@ aspiration examination for breast cancer
 
 virtual hands for Phantom Limb Pain
 
+
+## WEEK 3 
+I learned to use Zotero generating the bibliography this week. The software is super efficient and saved a lot of time. This activity will be helpful for the future research.
+
+##### Reading List
+Ahmad, M., Bani Mohammad, E., & Anshasi, H. A. (2020). Virtual Reality Technology for Pain and Anxiety Management among Patients with Cancer: A Systematic Review. Pain Management Nursing. https://doi.org/10.1016/j.pmn.2020.04.002
+
+Baños, R. M., Espinoza, M., García-Palacios, A., Cervera, J. M., Esquerdo, G., Barrajón, E., & Botella, C. (2013). A positive psychological intervention using virtual reality for patients with advanced cancer in a hospital setting: A pilot study to assess feasibility. Supportive Care in Cancer: Official Journal of the Multinational Association of Supportive Care in Cancer, 21(1), 263–270. https://doi.org/10.1007/s00520-012-1520-x
+
+Bolt, R. A. (1980). “Put-that-there”: Voice and gesture at the graphics interface. Proceedings of the 7th Annual Conference on Computer Graphics and Interactive Techniques  - SIGGRAPH ’80, 262–270. https://doi.org/10.1145/800250.807503
+
+Carfagno, J. (2019, May 6). How Osso VR is Reshaping the Surgical Training Process. Docwire News, Retrieved from https://www.docwirenews.com/docwire-pick/future-of-medicine-picks/how-osso-vr-is-reshaping-the-surgical-training-process/
+
+Chirico, A., Lucidi, F., De Laurentiis, M., Milanese, C., Napoli, A., & Giordano, A. (2016). Virtual Reality in Health System: Beyond Entertainment. A Mini-Review on the Efficacy of VR During Cancer Treatment. Journal of cellular physiology, 231(2), 275–287. https://doi.org/10.1002/jcp.25117
+
+Clay, F., Howett, D., FitzGerald, J., Fletcher, P., Chan, D., & Price, A. (2020). Use of Immersive Virtual Reality in the Assessment and Treatment of Alzheimer’s Disease: A Systematic Review. Journal of Alzheimer’s Disease: JAD, 75(1), 23–43. https://doi.org/10.3233/JAD-191218
+
+Crochet, P., Aggarwal, R., Dubb, S. S., Ziprin, P., Rajaretnam, N., Grantcharov, T., Ericsson, K. A., & Darzi, A. (2011). Deliberate practice on a virtual reality laparoscopic simulator enhances the quality of surgical technical skills. Annals of Surgery, 253(6), 1216–1222. https://doi.org/10.1097/SLA.0b013e3182197016
+
+Dascal, J., Reid, M., IsHak, W. W., Spiegel, B., Recacho, J., Rosen, B., & Danovitch, I. (2017). Virtual Reality and Medical Inpatients: A Systematic Review of Randomized, Controlled Trials. Innovations in Clinical Neuroscience, 14(1–2), 14–21.
+
+de Almeida Souza, I., Sanches, C., Kondo, M. N. S., & Zuffo, M. K. (2008). Development and evaluation of a virtual reality simulator for training of thyroid gland nodules needle biopsy. Proceedings of the 2008 ACM Symposium on Virtual Reality Software and Technology, 245–246. https://doi.org/10.1145/1450579.1450635
+
+de Lima, L., Nunes, F. L. S., Takashi, R., Rodello, I., Brega, J. R. F., & Sementille, A. C. (2004). Virtual reality for medical training: A prototype to simulate breast aspiration exam. Proceedings of the 2004 ACM SIGGRAPH International Conference on Virtual Reality Continuum and Its Applications in Industry, 328–331. https://doi.org/10.1145/1044588.1044659
+
+Engelbart, D. C., & English, W. K. (1968). A research center for augmenting human intellect. Proceedings of the December 9-11, 1968, Fall Joint Computer Conference, Part I on - AFIPS ’68 (Fall, Part I), 395. https://doi.org/10.1145/1476589.1476645
+
+Foreman, K. B., Wilson, C., Dibble, L. E., & Merryweather, A. S. (2019). Training Persons with Parkinson Disease using an Advanced CAVE Virtual Reality System. The FASEB Journal, 33(S1), 335.4-335.4. https://doi.org/10.1096/fasebj.2019.33.1_supplement.335.4
+
+Gershon, J., Zimand, E., Pickering, M., Rothbaum, B. O., & Hodges, L. (2004). A pilot and feasibility study of virtual reality as a distraction for children with cancer. Journal of the American Academy of Child and Adolescent Psychiatry, 43(10), 1243–1249. https://doi.org/10.1097/01.chi.0000135621.23145.05
+
+Harrington, C. M., Kavanagh, D. O., Quinlan, J. F., Ryan, D., Dicker, P., O’Keeffe, D., Traynor, O., & Tierney, S. (2018). Development and evaluation of a trauma decision-making simulator in Oculus virtual reality. The American Journal of Surgery, 215(1), 42–47. https://doi.org/10.1016/j.amjsurg.2017.02.011
+
+Henriksen, B., Nielsen, R., Kraus, M., & Geng, B. (2017). A Virtual Reality System for Treatment of Phantom Limb Pain using Game Training and Tactile Feedback. Proceedings of the Virtual Reality International Conference - Laval Virtual 2017, 1–4. https://doi.org/10.1145/3110292.3110306
+
+Hoffman, H. G., Patterson, D. R., Seibel, E., Soltani, M., Jewett-Leahy, L., & Sharar, S. R. (2008). Virtual reality pain control during burn wound debridement in the hydrotank. The Clinical Journal of Pain, 24(4), 299–304. https://doi.org/10.1097/AJP.0b013e318164d2cc
+
+Krueger, M. W. (1977). Responsive environments. Proceedings of the June 13-16, 1977, National Computer Conference on - AFIPS ’77, 423. https://doi.org/10.1145/1499402.1499476
+
+Li, A., Montaño, Z., Chen, V. J., & Gold, J. I. (2011). Virtual reality and pain management: Current trends and future directions. Pain Management, 1(2), 147–157. https://doi.org/10.2217/pmt.10.15
+
+Luo, H., Cao, C., Zhong, J., Chen, J., & Cen, Y. (2019). Adjunctive virtual reality for procedural pain management of burn patients during dressing change or physical therapy: A systematic review and meta-analysis of randomized controlled trials. Wound Repair and Regeneration: Official Publication of the Wound Healing Society [and] the European Tissue Repair Society, 27(1), 90–101. https://doi.org/10.1111/wrr.1
+
+Nilsson, S., Finnström, B., Kokinsky, E., & Enskär, K. (2009). The use of Virtual Reality for needle-related procedural pain and distress in children and adolescents in a paediatric oncology unit. European Journal of Oncology Nursing: The Official Journal of European Oncology Nursing Society, 13(2), 102–109. https://doi.org/10.1016/j.ejon.2009.01.003
+
+Oyama, H., Aono, M., Ohbuchi, R., & Suda, S. (1995). VR Medical Support System for Cancer Patients - Cancer Edutainment VR Theater (CEVRT) and Psycho-Oncological VR Therapy (POVRT). Interactive Technology and the New Paradigm for Healthcare (Vol. 18, Studies in Health Technology and Informatics, pp. 433-438). doi:10.3233/978-1-60750-862-5-433
+
+Satava, R. M., Morgan, K., & Sieburg, H. B. (1995). Interactive Technology and the New Paradigm for Healthcare. IOS Press.
+
+Singh, P., Aggarwal, R., Tahir, M., Pucher, P. H., & Darzi, A. (2015). A randomized controlled study to evaluate the role of video-based coaching in training laparoscopic skills. Annals of Surgery, 261(5), 862–869. https://doi.org/10.1097/SLA.0000000000000857
+
+Szczepańska-Gieracha, J., Cieślik, B., Rutkowski, S., Kiper, P., & Turolla, A. (2020). What can virtual reality offer to stroke patients? A narrative review of the literature. NeuroRehabilitation. https://doi.org/10.3233/NRE-203209
+
+Varshney, R., Frenkiel, S., Nguyen, L. H., Young, M., Del Maestro, R., Zeitouni, A., Saad, E., Funnell, W. R. J., Tewfik, M. A., & National Research Council Canada. (2014). The McGill simulator for endoscopic sinus surgery (MSESS): A validation study. Journal of Otolaryngology - Head & Neck Surgery, 43(1), 40. https://doi.org/10.1186/s40463-014-0040-8
+
+Vovk, A., Patel, A., & Chan, D. (2019). Augmented Reality for Early Alzheimer’s Disease Diagnosis. Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems, 1–6. https://doi.org/10.1145/3290607.3313007
+
+Wolitzky, K., Fivush, R., Zimand, E., Hodges, L., & Rothbaum, B. O. (2005). Effectiveness of virtual reality distraction during a painful medical procedure in pediatric oncology patients. Psychology & Health, 20(6), 817–824. https://doi.org/10.1080/14768320500143339
+
+Zengin, S., Kabul, S., Al, B., Sarcan, E., Doğan, M., & Yildirim, C. (2013). Effects of music therapy on pain and anxiety in patients undergoing port catheter placement procedure. Complementary Therapies in Medicine, 21(6), 689–696. https://doi.org/10.1016/j.ctim.2013.08.017
