@@ -173,7 +173,7 @@ virtual hands for Phantom Limb Pain
 
 
 ## WEEK 3 
-I learned to use Zotero generating the bibliography this week. The software is super efficient and saved a lot of time. This activity will be helpful for the future research.
+I learned to use Zotero this week. Its plugin can automatically generate the bibliography from the website and save to the local folder. This activity will be helpful for the future paper.
 
 ##### Reading List
 Ahmad, M., Bani Mohammad, E., & Anshasi, H. A. (2020). Virtual Reality Technology for Pain and Anxiety Management among Patients with Cancer: A Systematic Review. Pain Management Nursing. https://doi.org/10.1016/j.pmn.2020.04.002
@@ -231,3 +231,19 @@ Vovk, A., Patel, A., & Chan, D. (2019). Augmented Reality for Early Alzheimer’
 Wolitzky, K., Fivush, R., Zimand, E., Hodges, L., & Rothbaum, B. O. (2005). Effectiveness of virtual reality distraction during a painful medical procedure in pediatric oncology patients. Psychology & Health, 20(6), 817–824. https://doi.org/10.1080/14768320500143339
 
 Zengin, S., Kabul, S., Al, B., Sarcan, E., Doğan, M., & Yildirim, C. (2013). Effects of music therapy on pain and anxiety in patients undergoing port catheter placement procedure. Complementary Therapies in Medicine, 21(6), 689–696. https://doi.org/10.1016/j.ctim.2013.08.017
+
+##### Suggested Readings
+###### Perception of the future and the future of perception
+
+Let there be vision and there was light.
+
+Our rules and principles are based on past knowledge. If the future always depends on the past, then the world and society will be hard to change. The modern world teaches people to follow those rules, and most of us become obedient as we grew up. Crow enjoys being ruled by the dominator (what we called elite class), so people won't decide or think about the future. 
+
+In the article, Heinz mentions the insignificance of former information and relevance for a new future. We need to perceive it first so we can achieve it later. This made me think the language we are using could also be the stumbling block that prevents us from perceiving the future or reaching a higher dimension. After that, what will our perception eventually be like at that moment?
+
+###### Vehicles: Experiments in synthetic psychology
+
+This article starts by building a simple vehicle. By adding more sonsers and more motors to the vehicle, it become alive from interacting with the stimulus. Although the vehicle is all based on the program, it can be more like an life entity after introducing the thresheld. Actions controled by the thresheld can simulate the delay or preparation of animal. Mutiple thresheld with one activation element can also generate a more complicated life and hard to analyze from the outside. There are also tricks adding memory system to the artificial lifelike vehicle and even reproduce new generation.
+
+In the past I only created game's AI with random animations and directions to simulate the dynamic patrolling. It is interesting to discover the AI algorithm  by adding more relative sonsors and motors together ---- to make the NPC more like real players.  
+
