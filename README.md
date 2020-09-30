@@ -239,11 +239,11 @@ Let there be vision and there was light.
 
 Our rules and principles are based on past knowledge. If the future always depends on the past, then the world and society will be hard to change. The modern world teaches people to follow those rules, and most of us become obedient as we grew up. Crow enjoys being ruled by the dominator (what we called elite class), so people won't decide or think about the future. 
 
-In the article, Heinz mentions the insignificance of former information and relevance for a new future. We need to perceive it first so we can achieve it later. This made me think the language we are using could also be the stumbling block that prevents us from perceiving the future or reaching a higher dimension. After that, what will our perception eventually be like at that moment?
+In the article, Heinz mentions the insignificance of former information and relevance for a new future. We have to perceive our tomorrow first so we can achieve it later. This made me think the language we are using could also be the stumbling block that prevents us from perceiving the future or reaching a higher dimension. But after that, what will our perception eventually be like at that moment?
 
 ###### Vehicles: Experiments in synthetic psychology
 
-This article starts by building a simple vehicle. By adding more sonsers and more motors to the vehicle, it become alive from interacting with the stimulus. Although the vehicle is all based on the program, it can be more like an life entity after introducing the thresheld. Actions controled by the thresheld can simulate the delay or preparation of animal. Mutiple thresheld with one activation element can also generate a more complicated life and hard to analyze from the outside. There are also tricks adding memory system to the artificial lifelike vehicle and even reproduce new generation.
+The article starts with a simple vehicle. This vehicle eventually becomes alive by adding more sensors and more motors when interacting with multiple stimuli. Using the threshold for any action value can simulate a delay of preparation or rest that usually happens in life entities. Binding multiple thresholds with one activation element will generate a more realistic life. Alghouth the idea is not too complicated but the result (performance) always looks intricate.
 
-In the past I only created game's AI with random animations and directions to simulate the dynamic patrolling. It is interesting to discover the AI algorithm  by adding more relative sonsors and motors together ---- to make the NPC more like real players.  
+Most AI I made was in video games, I usally randomize their animations and directions to simulate the dynamic patrolling. It is interesting to discover this new vehicle algorithm by adding more relative sensors and motors with various settings to make the virtual world full of life.
 
