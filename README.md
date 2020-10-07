@@ -247,3 +247,10 @@ The article starts with a simple vehicle. This vehicle eventually becomes alive 
 
 Most AI I made was in video games, I usally randomize their animations and directions to simulate the dynamic patrolling. It is interesting to discover this new vehicle algorithm by adding more relative sensors and motors with various settings to make the virtual world full of life.
 
+
+
+## WEEK 4
+<p class="codepen" data-height="383" data-theme-id="dark" data-default-tab="js,result" data-user="zian-liu" data-slug-hash="vYGoeZe" style="height: 383px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Vehicle">
+  <span>See the Pen <a href="https://codepen.io/zian-liu/pen/vYGoeZe">
+    
+For this week's assignment, I made a multi-sensors vehicle based on the in-class sketch. The vehicle prefers to avoid its companions but chase the light source. It is not easy to calculate all incoming forces in a javascript program compared to any other game engine. So I use velocities to generate the next position (sum up the same direction velocity, subtract different directions velocity). The script still has some problems that sometimes the vehicle won't be affected by the light source; even they are close enough. More details and features will be shared in class.    
