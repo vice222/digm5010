@@ -259,4 +259,3 @@ For this week's assignment, I made a multi-sensors vehicle based on the in-class
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
     
-For this week's assignment, I made a multi-sensors vehicle based on the in-class sketch. The vehicle prefers to avoid its companions but chase the light source. It is not easy to calculate all incoming forces in a javascript program compared to any other game engine. So I use velocities to generate the next position (sum up the same direction velocity, subtract different directions velocity). The script still has some problems that sometimes the vehicle won't be affected by the light source; even they are close enough. More details and features will be shared in class.    
