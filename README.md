@@ -1,3 +1,19 @@
+## Literature Review 
+
+### Reimplement the experiment using cells to solve complex mazes based on chemotaxis 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C0nGXL5wEck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
 ## WEEK 2
 
 ###### Here is my first sketch study
