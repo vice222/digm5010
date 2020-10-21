@@ -126,7 +126,7 @@ Other useful effects to improve the visual appeal of a maze include tone reprodu
 It is interesting to observe the transference of realistic pictures to artistic mazes. As shown in the Figure 1, a maze can not only be a puzzle game for people to solve, but artists can also use mazes for a variety of purposes. For instance, a maze can serve as a pure visual art form to represent certain cultural and religious artifacts. To make a maze for mice more realistic, the maze could be designed in the shape of a map of New York, since the city is known for its rats. If a metastatic cancer cell is to solve a particular maze, the maze could be contoured like a human body.
 
 
-<img src="https://lh3.googleusercontent.com/pw/ACtC-3cV13w2OIY1WuraOxkg8XCN8cOT3iBBEeUHAnuGqXb1-VFLsdJDc5eAwpfkfmMPQCl7ttdnJjKYsdH7q1y2LZsp6NYXX37f5tv5SkcWQbDhy5WQzntu7HmjoetmKOzCIW-eN0wObYJ6Y-RnOhKAxi4V=w326-h217-no?authuser=0" width="200">
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3cV13w2OIY1WuraOxkg8XCN8cOT3iBBEeUHAnuGqXb1-VFLsdJDc5eAwpfkfmMPQCl7ttdnJjKYsdH7q1y2LZsp6NYXX37f5tv5SkcWQbDhy5WQzntu7HmjoetmKOzCIW-eN0wObYJ6Y-RnOhKAxi4V=w326-h217-no?authuser=0" width="400">
 Figure 1
 
  
