@@ -116,6 +116,22 @@ Wolitzky, K., Fivush, R., Zimand, E., Hodges, L., & Rothbaum, B. O. (2005). Effe
 
 Zengin, S., Kabul, S., Al, B., Sarcan, E., Doğan, M., & Yildirim, C. (2013). Effects of music therapy on pain and anxiety in patients undergoing port catheter placement procedure. Complementary Therapies in Medicine, 21(6), 689–696. https://doi.org/10.1016/j.ctim.2013.08.017
 
+### Annotated Bibliography
+
+
+Xu, J., & Kaplan, C. S. (2007). Image-guided maze construction. ACM Transactions on Graphics, 26(3), 29–es. https://doi.org/10.1145/1276377.1276414
+
+Xu and Kaplan have invented a method of transferring interesting regions and the tone of any photo into a maze. To construct a maze, they used the same method as the one described in design-centric maze generation: separating the photo or object into pieces, then constructing and connecting each cell together using a spanning tree. To maintain the style or expression of the images, mazes have to be designed on a region-by-region basis. Xu and Kaplan defined the different regions and styles by four textures: directional mazes, spiral or vortex mazes, random mazes, and user-defined lines. Directional mazes are normal mazes with anisotropy where the walls are assigned to flow with two perpendicular directions. I have introduced the spiral mazes with Berg’s article; this style can be used for depictions of specific objects, such as a round teapot. Random mazes are used for regions that can be defined by tone variation, and user-defined lines are used for faces that need to carefully pointed out. 
+Other useful effects to improve the visual appeal of a maze include tone reproduction and foreshortening. To remake the tone, Xu and Kaplan also defined a relationship between line spacing, line width, and lightness. The lighter tones usually have thinner line width, with broader spaces between each line (wall) in the region. By contrast, dark tones have thicker, bolder lines, and darker tonal areas are more crowded. Meanwhile, foreshortening provides an interactive tool that can generate a perspective transformation based on the normal vectors of the photo. A designer can finish their mazes according to the inverse of that transformation, then re-apply the transformation to generate the foreshortening effect. 
+It is interesting to observe the transference of realistic pictures to artistic mazes. As shown in the Figure 1, a maze can not only be a puzzle game for people to solve, but artists can also use mazes for a variety of purposes. For instance, a maze can serve as a pure visual art form to represent certain cultural and religious artifacts. To make a maze for mice more realistic, the maze could be designed in the shape of a map of New York, since the city is known for its rats. If a metastatic cancer cell is to solve a particular maze, the maze could be contoured like a human body.
+
+
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3cV13w2OIY1WuraOxkg8XCN8cOT3iBBEeUHAnuGqXb1-VFLsdJDc5eAwpfkfmMPQCl7ttdnJjKYsdH7q1y2LZsp6NYXX37f5tv5SkcWQbDhy5WQzntu7HmjoetmKOzCIW-eN0wObYJ6Y-RnOhKAxi4V=w326-h217-no?authuser=0" width="200">
+Figure 1
+
+ 
+
+
 
 
 
@@ -144,7 +160,6 @@ I haven't used javascript for over three years. The most time I spent on this sk
 <img src=" https://lh3.googleusercontent.com/yp-OYLpTngMAE6mdo2MOg6gBgHuG1PmJC7zxTXOE35OMG07Nz4GlftVBvoOqdwL71IQnZXyin955_i6yFLYfKKISKAZKgv4FPN6J3qoF39rqtKoVqUGNBaLvaEvuEl0UW0WXSqRYpwVHolyp1J57JotUIiV7wK0SqrpVF8i0M3tMkPttTWj7hNdjvBPFY32t6V4T5OY2B0qKL-23Q8k1wPkT8bshmmiLRM4zx3SIkkwtygAZmqG92HyQN4QY2sgSsvyPIf9EayAtIayI7tjAcxy7jNfJGfOACx1sFyuklLiE6dFTHLbdUzFYqSWXEHDjgZpRVog0es-kW-f3pPz_mgj9dLIcvc4LLt8IxzCe4uY48LqSMH8_tUO-FXYIr2_vQ8eMgL9IReVP-92fH6JvcFj96ctZwddBE7H_vUqoGz2Q5GoF7v0KFCpRDDtOKySS2NurJhNNYKnPrFN1P7b74eauvbXcURYNntL4GNz0doHfWhNl3ThULSenYRLgdWW7PVcqFWKWftidCrhmAxcILdM9IsyrDmtBS2oDw8oD6_i9WH8TlO9MKnww8A6Wk9OAtzRZsDmsTSPESvMOTo-hAdfWM6gkbedvZzxWVNoKhHadWeTGmLgtDAaiuf5g8NupYzRVFou3l1zfjGkuzndTd1hTYzW4mWZv3Gwnu10HgNsbQic6IiqLRj7u4G38Wg=w431-h214-no?authuser=0" width="300">
 
 An issue I'm thinking for the whole week is to achieve perfect symmetry after relection. If I draw a specific pattern in the panel, after reflecting from the edge, neither the yellowtail script nor my codes can make the line remain the same as before ---- the pattern usually becomes an irregular curve after the bouncing.
-
 
 
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3d6G_Tevzi12wrrPobva75ibK50ck8V9aGKRObVyzTrQ39CYxHZ3xsOpRx2tL9iQzIeM8hdR8_Ap1CaIGdNEJ9L_w2V-fJVAW17qaWbflhN9VcJXoZyDFSmrZufCKnz9ODfB23507lgx5eDdksH7827=w988-h969-no?authuser=0" width="200">
