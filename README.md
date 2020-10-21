@@ -1,8 +1,120 @@
 ## Literature Review 
 
-### Reimplement the experiment using cells to solve complex mazes based on chemotaxis 
+###  Cells solving complex mazes based on chemotaxis 
+
+###### robotic,artificial life,generative art 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C0nGXL5wEck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Seeing around corners: Cells solve mazes and respond at a distance using attractant breakdown is a newly-released paper published earlier this year. Awareness of its findings quickly spread through news and videos because of the amazing phenomenon observed by the researchers: cells rapidly navigating and solving different levels’ mazes for the attractant. I was deeply inspired by the video when I viewed it for the first time, which led me to the idea of extending this research in a more artistic way by reimplementation since this research is primarily focused on the scientific aspects, like the experimental methodology. Berg’s website and books also made great contributions to the mazes’ artistic aspect. Most papers I’ve read have all cited Berg’s work as a basis for maze generation. I’d like to see the results of combining Xu and Kaplan’s method of transferring photorealistic images into mazes with Berg’s design principles. Currently, since the paper was just released on the end of this August, there are no published research studies or reimplementation attempts based on the results of Seeing around corners. I believe there is a lot to say about this subject in the future, and further discoveries to be made in this area, whether in the scientific aspect or the artistic aspect. 
+
+### Reading List
+
+##### Current topic 
+Berg, C. Educational Maze Puzzle Art. Retrieved from http://www.amazeingart.com/
+
+Braitenberg, V. (1984). Vehicles, experiments in synthetic psychology (pp. 3-28). Cambridge, MA: MIT Press.
+
+Brooks, R. (2017, March 18). WHAT IS IT LIKE TO BE A ROBOT [web log]. https://rodneybrooks.com/what-is-it-like-to-be-a-robot/. 
+
+Colin, R., & Sourjik, V. (2017). Emergent properties of bacterial chemotaxis pathway. Current Opinion in Microbiology, 39, 24–33. https://doi.org/10.1016/j.mib.2017.07.004
+
+Gochev, I., Nadzinski, G., Stankovski, M. (2017). PATH PLANNING AND COLLISION AVOIDANCE REGIME FOR A MULTI-AGENT SYSTEM IN INDUSTRIAL 
+
+Haynes, S. (2019, June 17) This Robot Artist Just Became the First to Stage a Solo Exhibition. What Does That Say About Creativity? Retrieved from https://time.com/5607191/robot-artist-ai-da-artificial-intelligence-creativity/
+
+Hays, J., & Essa, I. (2004). Image and video based painterly animation. Proceedings of the 3rd International Symposium on Non-Photorealistic Animation and Rendering, 113–120. https://doi.org/10.1145/987657.987676
+
+Hertzmann, A. (2020, May). Computers Do Not Make Art, People Do. Communications of the ACM, 63(5), 45-48. doi:10.1145/3347092
+
+Kim, P. H., Grove, J., Wurster, S., & Crawfis, R. (2019). Design-centric maze generation. Proceedings of the 14th International Conference on the Foundations of Digital Games, 1–9. https://doi.org/10.1145/3337722.3341854
+
+Mishra, S., & Bande, P. (2008). Maze Solving Algorithms for Micro Mouse. 2008 IEEE International Conference on Signal Image Technology and Internet Based Systems, 86–93. https://doi.org/10.1109/SITIS.2008.104
+
+Nakagaki, T., Yamada, H., & Tóth, Á. (2000). Maze-solving by an amoeboid organism. Nature, 407(6803), 470–470. https://doi.org/10.1038/35035159
+
+Nakagaki, T., Yamada, H., & Tóth, Á. (2001). Path finding by tube morphogenesis in an amoeboid organism. Biophysical Chemistry, 92(1), 47–52. https://doi.org/10.1016/S0301-4622(01)00179-X
+
+Park, H., Pontius, W., Guet, C. C., Marko, J. F., Emonet, T., & Cluzel, P. (2010). Interdependence of behavioural variability and response to small stimuli in bacteria. Nature, 468(7325), 819–823. https://doi.org/10.1038/nature09551
+
+Qin, J., & Wheeler, A. R. (2007). Maze exploration and learning in C. elegans. Lab on a Chip, 7(2), 186–192. https://doi.org/10.1039/B613414A
+
+Rañó, I., & Jokeit, J.-S. (2012). A Wandering Braitenberg Vehicle 2b That Densely Covers a Bounded Workspace. In G. Herrmann, M. Studley, M. Pearson, A. Conn, C. Melhuish, M. Witkowski, J.-H. Kim, & P. Vadakkepat (Eds.), Advances in Autonomous Robotics (pp. 37–48). Springer. https://doi.org/10.1007/978-3-642-32527-4_4
+
+Salek, M. M., Carrara, F., Fernandez, V., Guasto, J. S., & Stocker, R. (2019). Bacterial chemotaxis in a microfluidic T-maze reveals strong phenotypic heterogeneity in chemotactic sensitivity. Nature Communications, 10(1), 1877. https://doi.org/10.1038/s41467-019-09521-2
+
+Scherber, C., Aranyosi, A. J., Kulemann, B., Thayer, S. P., Toner, M., Iliopoulos, O., & Irimia, D. (2012). Epithelial cell guidance by self-generated EGF gradients. Integrative Biology, 4(3), 259–269. https://doi.org/10.1039/c2ib00106c
+
+Tindall, M. J., Porter, S. L., Maini, P. K., Gaglia, G., & Armitage, J. P. (2008). Overview of Mathematical Approaches Used to Model Bacterial Chemotaxis I: The Single Cell. Bulletin of Mathematical Biology, 70(6), 1525–1569. https://doi.org/10.1007/s11538-008-9321-6
+
+Tweedy, L., Susanto, O., & Insall, R. H. (2016). Self-generated chemotactic gradients—Cells steering themselves. Current Opinion in Cell Biology, 42, 46–51. https://doi.org/10.1016/j.ceb.2016.04.003
+
+Tweedy, L., Thomason, P. A., Paschke, P. I., Martin, K., Machesky, L. M., Zagnoni, M., & Insall, R. H. (2020). Seeing around corners: Cells solve mazes and respond at a distance using attractant breakdown. Science, 369(6507). https://doi.org/10.1126/science.aay9792
+
+Wadhams, G. H., & Armitage, J. P. (2004). Making sense of it all: Bacterial chemotaxis. Nature Reviews Molecular Cell Biology, 5(12), 1024–1037. https://doi.org/10.1038/nrm1524
+
+Xu, J., & Kaplan, C. S. (2007). Image-guided maze construction. ACM Transactions on Graphics, 26(3), 29–es. https://doi.org/10.1145/1276377.1276414
+
+Yokawa, K., Derrien-Maze, N., Mancuso, S., & Baluska, F. (2014). Binary Decisions in Maize Root Behavior: Y-Maze System as Tool for Unconventional Computation in Plants. International Journal of Unconventional Computing, 10, 381–390.
+
+
+
+##### Previous immersive experience
+Ahmad, M., Bani Mohammad, E., & Anshasi, H. A. (2020). Virtual Reality Technology for Pain and Anxiety Management among Patients with Cancer: A Systematic Review. Pain Management Nursing. https://doi.org/10.1016/j.pmn.2020.04.002
+
+Baños, R. M., Espinoza, M., García-Palacios, A., Cervera, J. M., Esquerdo, G., Barrajón, E., & Botella, C. (2013). A positive psychological intervention using virtual reality for patients with advanced cancer in a hospital setting: A pilot study to assess feasibility. Supportive Care in Cancer: Official Journal of the Multinational Association of Supportive Care in Cancer, 21(1), 263–270. https://doi.org/10.1007/s00520-012-1520-x
+
+Bolt, R. A. (1980). “Put-that-there”: Voice and gesture at the graphics interface. Proceedings of the 7th Annual Conference on Computer Graphics and Interactive Techniques  - SIGGRAPH ’80, 262–270. https://doi.org/10.1145/800250.807503
+
+Carfagno, J. (2019, May 6). How Osso VR is Reshaping the Surgical Training Process. Docwire News, Retrieved from https://www.docwirenews.com/docwire-pick/future-of-medicine-picks/how-osso-vr-is-reshaping-the-surgical-training-process/
+
+Chirico, A., Lucidi, F., De Laurentiis, M., Milanese, C., Napoli, A., & Giordano, A. (2016). Virtual Reality in Health System: Beyond Entertainment. A Mini-Review on the Efficacy of VR During Cancer Treatment. Journal of cellular physiology, 231(2), 275–287. https://doi.org/10.1002/jcp.25117
+
+Clay, F., Howett, D., FitzGerald, J., Fletcher, P., Chan, D., & Price, A. (2020). Use of Immersive Virtual Reality in the Assessment and Treatment of Alzheimer’s Disease: A Systematic Review. Journal of Alzheimer’s Disease: JAD, 75(1), 23–43. https://doi.org/10.3233/JAD-191218
+
+Crochet, P., Aggarwal, R., Dubb, S. S., Ziprin, P., Rajaretnam, N., Grantcharov, T., Ericsson, K. A., & Darzi, A. (2011). Deliberate practice on a virtual reality laparoscopic simulator enhances the quality of surgical technical skills. Annals of Surgery, 253(6), 1216–1222. https://doi.org/10.1097/SLA.0b013e3182197016
+
+Dascal, J., Reid, M., IsHak, W. W., Spiegel, B., Recacho, J., Rosen, B., & Danovitch, I. (2017). Virtual Reality and Medical Inpatients: A Systematic Review of Randomized, Controlled Trials. Innovations in Clinical Neuroscience, 14(1–2), 14–21.
+
+de Almeida Souza, I., Sanches, C., Kondo, M. N. S., & Zuffo, M. K. (2008). Development and evaluation of a virtual reality simulator for training of thyroid gland nodules needle biopsy. Proceedings of the 2008 ACM Symposium on Virtual Reality Software and Technology, 245–246. https://doi.org/10.1145/1450579.1450635
+
+de Lima, L., Nunes, F. L. S., Takashi, R., Rodello, I., Brega, J. R. F., & Sementille, A. C. (2004). Virtual reality for medical training: A prototype to simulate breast aspiration exam. Proceedings of the 2004 ACM SIGGRAPH International Conference on Virtual Reality Continuum and Its Applications in Industry, 328–331. https://doi.org/10.1145/1044588.1044659
+
+Engelbart, D. C., & English, W. K. (1968). A research center for augmenting human intellect. Proceedings of the December 9-11, 1968, Fall Joint Computer Conference, Part I on - AFIPS ’68 (Fall, Part I), 395. https://doi.org/10.1145/1476589.1476645
+
+Foreman, K. B., Wilson, C., Dibble, L. E., & Merryweather, A. S. (2019). Training Persons with Parkinson Disease using an Advanced CAVE Virtual Reality System. The FASEB Journal, 33(S1), 335.4-335.4. https://doi.org/10.1096/fasebj.2019.33.1_supplement.335.4
+
+Gershon, J., Zimand, E., Pickering, M., Rothbaum, B. O., & Hodges, L. (2004). A pilot and feasibility study of virtual reality as a distraction for children with cancer. Journal of the American Academy of Child and Adolescent Psychiatry, 43(10), 1243–1249. https://doi.org/10.1097/01.chi.0000135621.23145.05
+
+Harrington, C. M., Kavanagh, D. O., Quinlan, J. F., Ryan, D., Dicker, P., O’Keeffe, D., Traynor, O., & Tierney, S. (2018). Development and evaluation of a trauma decision-making simulator in Oculus virtual reality. The American Journal of Surgery, 215(1), 42–47. https://doi.org/10.1016/j.amjsurg.2017.02.011
+
+Henriksen, B., Nielsen, R., Kraus, M., & Geng, B. (2017). A Virtual Reality System for Treatment of Phantom Limb Pain using Game Training and Tactile Feedback. Proceedings of the Virtual Reality International Conference - Laval Virtual 2017, 1–4. https://doi.org/10.1145/3110292.3110306
+
+Hoffman, H. G., Patterson, D. R., Seibel, E., Soltani, M., Jewett-Leahy, L., & Sharar, S. R. (2008). Virtual reality pain control during burn wound debridement in the hydrotank. The Clinical Journal of Pain, 24(4), 299–304. https://doi.org/10.1097/AJP.0b013e318164d2cc
+
+Krueger, M. W. (1977). Responsive environments. Proceedings of the June 13-16, 1977, National Computer Conference on - AFIPS ’77, 423. https://doi.org/10.1145/1499402.1499476
+
+Li, A., Montaño, Z., Chen, V. J., & Gold, J. I. (2011). Virtual reality and pain management: Current trends and future directions. Pain Management, 1(2), 147–157. https://doi.org/10.2217/pmt.10.15
+
+Luo, H., Cao, C., Zhong, J., Chen, J., & Cen, Y. (2019). Adjunctive virtual reality for procedural pain management of burn patients during dressing change or physical therapy: A systematic review and meta-analysis of randomized controlled trials. Wound Repair and Regeneration: Official Publication of the Wound Healing Society [and] the European Tissue Repair Society, 27(1), 90–101. https://doi.org/10.1111/wrr.1
+
+Nilsson, S., Finnström, B., Kokinsky, E., & Enskär, K. (2009). The use of Virtual Reality for needle-related procedural pain and distress in children and adolescents in a paediatric oncology unit. European Journal of Oncology Nursing: The Official Journal of European Oncology Nursing Society, 13(2), 102–109. https://doi.org/10.1016/j.ejon.2009.01.003
+
+Oyama, H., Aono, M., Ohbuchi, R., & Suda, S. (1995). VR Medical Support System for Cancer Patients - Cancer Edutainment VR Theater (CEVRT) and Psycho-Oncological VR Therapy (POVRT). Interactive Technology and the New Paradigm for Healthcare (Vol. 18, Studies in Health Technology and Informatics, pp. 433-438). doi:10.3233/978-1-60750-862-5-433
+
+Satava, R. M., Morgan, K., & Sieburg, H. B. (1995). Interactive Technology and the New Paradigm for Healthcare. IOS Press.
+
+Singh, P., Aggarwal, R., Tahir, M., Pucher, P. H., & Darzi, A. (2015). A randomized controlled study to evaluate the role of video-based coaching in training laparoscopic skills. Annals of Surgery, 261(5), 862–869. https://doi.org/10.1097/SLA.0000000000000857
+
+Szczepańska-Gieracha, J., Cieślik, B., Rutkowski, S., Kiper, P., & Turolla, A. (2020). What can virtual reality offer to stroke patients? A narrative review of the literature. NeuroRehabilitation. https://doi.org/10.3233/NRE-203209
+
+Varshney, R., Frenkiel, S., Nguyen, L. H., Young, M., Del Maestro, R., Zeitouni, A., Saad, E., Funnell, W. R. J., Tewfik, M. A., & National Research Council Canada. (2014). The McGill simulator for endoscopic sinus surgery (MSESS): A validation study. Journal of Otolaryngology - Head & Neck Surgery, 43(1), 40. https://doi.org/10.1186/s40463-014-0040-8
+
+Vovk, A., Patel, A., & Chan, D. (2019). Augmented Reality for Early Alzheimer’s Disease Diagnosis. Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems, 1–6. https://doi.org/10.1145/3290607.3313007
+
+Wolitzky, K., Fivush, R., Zimand, E., Hodges, L., & Rothbaum, B. O. (2005). Effectiveness of virtual reality distraction during a painful medical procedure in pediatric oncology patients. Psychology & Health, 20(6), 817–824. https://doi.org/10.1080/14768320500143339
+
+Zengin, S., Kabul, S., Al, B., Sarcan, E., Doğan, M., & Yildirim, C. (2013). Effects of music therapy on pain and anxiety in patients undergoing port catheter placement procedure. Complementary Therapies in Medicine, 21(6), 689–696. https://doi.org/10.1016/j.ctim.2013.08.017
 
 
 
