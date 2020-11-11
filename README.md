@@ -3,8 +3,10 @@ This project is inspired by the paper "Seeing around corners: Cells solve mazes 
 Current ideas are analyzing the result; making a more attractive interaction program for the public to demonstrate the practicality of chemotaxis; embellishing or mutating the maze to become stylized.
 
 <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="zian-liu" data-slug-hash="mdErbRX" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Agents solve maze">
-  <span>See the Pen <a href="https://codepen.io/zian-liu/pen/mdErbRX">
-
+  <span>See the Pen <a href="https://codepen.io/zian-liu/pen/mdErbRX"> </a>
+  </span>
+  </p>
+  
 
 ## Week 9
 Video Tutorial
